@@ -1,1 +1,1 @@
-# cfbscrapR
+# cfb_coach_sim
